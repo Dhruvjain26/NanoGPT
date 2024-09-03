@@ -9,6 +9,5 @@ Cross entropy loss function (negative log-likelihood loss) was used to estimate 
 
 
 What next?
-
-The model performance could be optimized and improved using Batched Multi-head Self Attention. 
-Further optimization could be achieved using a feed-forward type function and residual connections.
+  The model performance could be optimized and improved using Batched Multi-head Self Attention. 
+  Further optimization could be achieved using a feed-forward type function and residual connections.
