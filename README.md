@@ -7,6 +7,7 @@ Implementation -
 
 Cross entropy loss function (negative log-likelihood loss) was used to estimate performance and a loss of 2.382 was achieved.
 
+
 What next?
 
 The model performance could be optimized and improved using Batched Multi-head Self Attention. 
