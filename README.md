@@ -1,5 +1,5 @@
 # NanoGPT
-I trained a language model based on GPT (Generative Pretrained Transformer) called "NanoGpt" on a dataset containing more than 11 Lakh characters. Built-in PyTorch, this model is a transformer-based language model based on the paper "Attention is All You Need". However, this model is simply a character-level language model.
+I trained a language model based on GPT (Generative Pretrained Transformer) called "NanoGPT" on a dataset containing more than 11 Lakh characters. Built-in PyTorch, this model is a transformer-based language model based on the paper "Attention is All You Need". However, this model is simply a character-level language model.
 
 Implementation - 
 1) I trained and made a Bigram model that predicted the next character based on only the previous character. Adamw Optimizer was used.
